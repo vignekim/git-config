@@ -7,4 +7,4 @@ management:
       exposure:
         include: health, refresh
 
-user.message: Remote Development Profiles
+user.message: Remote Development Profiles Add Text
