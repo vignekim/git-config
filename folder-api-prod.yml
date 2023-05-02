@@ -7,4 +7,4 @@ management:
       exposure:
         include: refresh
 
-use.message: Remote Production Profiles
+user.message: Remote Production Profiles
