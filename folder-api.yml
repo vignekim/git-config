@@ -7,4 +7,4 @@ management:
       exposure:
         include: '*'
 
-use.message: Remote Default Profiles
+user.message: Remote Default Profiles
